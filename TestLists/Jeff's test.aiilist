@@ -1,0 +1,88 @@
+{
+  "__type": "ArtOfTest.WebAii.Design.Execution.TestList",
+  "__value": {
+    "TestListId": "f2ecfd4a-6bd7-4a1c-b052-1d50df1a85dd",
+    "Id": "f2ecfd4a-6bd7-4a1c-b052-1d50df1a85dd",
+    "TestListName": "Jeff's test",
+    "CreationDate": "2019-07-18T20:08:46-07:00",
+    "OwnerName": null,
+    "Settings": {
+      "__type": "ArtOfTest.WebAii.Core.Settings",
+      "__value": {
+        "Web": {
+          "__type": "ArtOfTest.WebAii.Core.Settings+WebSettings",
+          "__value": {
+            "IsProfilingExecution": false,
+            "ExecutingBrowsers": [],
+            "UseMultiBrowserExecution": false,
+            "RecycleBrowser": false,
+            "AspNetDevServerPort": -1,
+            "LocalWebServer": 0,
+            "EnableUILessRequestViewing": false,
+            "WebAppPhysicalPath": "",
+            "DefaultBrowser": 1,
+            "EnableScriptLogging": false,
+            "BaseUrl": "",
+            "KillBrowserProcessOnClose": false,
+            "KillBrowsersBeforeStart": true,
+            "AutoCalibrateBrowsers": false,
+            "UseHttpProxy": false,
+            "EnableSilverlight": false,
+            "VerboseHttpProxy": false,
+            "SilverlightConnectTimeout": 60000,
+            "SilverlightApplicationPath": null
+          }
+        },
+        "Wpf": {
+          "__type": "ArtOfTest.WebAii.Core.Settings+WpfSettings",
+          "__value": {
+            "DefaultApplicationPath": null
+          }
+        },
+        "CreateLogFile": true,
+        "LogLocation": "C:\\WebAiiLog\\",
+        "QueryEventLogErrorsOnExit": false,
+        "LogAnnotations": false,
+        "SimulatedMouseMoveSpeed": 0.3,
+        "ExecuteInDevelopmentTests": false,
+        "WaitCheckInterval": 500,
+        "ElementWaitTimeout": 15000,
+        "ExecuteCommandTimeout": 20000,
+        "ExecutionDelay": 0,
+        "RerunFailedTests": false,
+        "UnexpectedDialogAction": 2,
+        "AnnotateExecution": false,
+        "AnnotationMode": 0,
+        "RecordingMode": 0,
+        "RecordingCodec": 0,
+        "RecordingScale": 100,
+        "RecordingFPS": 5,
+        "RecordingOutputLocation": "",
+        "RecordingSizeLimit": 0,
+        "XMultiMgr": true,
+        "ClientReadyTimeout": 60000,
+        "DisableDialogMonitoring": false,
+        "RunnerResponseTimeout": 0.0,
+        "EnableImageSearch": true,
+        "ElementImageSearchTimeout": 15000
+      }
+    },
+    "Tests": [],
+    "Filter": {
+      "__type": "ArtOfTest.WebAii.Design.Execution.Filter",
+      "__value": {
+        "Keys": [
+          ""
+        ],
+        "Comparisons": [
+          "ArtOfTest.WebAii.Design.Execution.FilterComparison||Equals"
+        ],
+        "Values": [
+          ""
+        ]
+      }
+    },
+    "ListType": 0,
+    "ProjectId": "dc5f6100-7ddb-4d9c-a990-ed6f4cc7359b"
+  }
+}
