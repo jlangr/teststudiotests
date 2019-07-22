@@ -1,6 +1,5 @@
 Backup/
 bin/
 Results/
-**/Pages.g.cs
 *.sw*
 **/*.imgstore
